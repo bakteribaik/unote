@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363625499374",
+    "project_id": "unote-c654c",
+    "storage_bucket": "unote-c654c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363625499374:android:2ea65964d07e4636ce01ff",
+        "android_client_info": {
+          "package_name": "com.unote.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363625499374-g0frsc704ggmtdh3mfj8g2r8pgdcjhoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkqhpf4QEdSqryU0lfstEg-ZHFFeCD7gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363625499374-g0frsc704ggmtdh3mfj8g2r8pgdcjhoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
